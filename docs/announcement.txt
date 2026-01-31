@@ -1,0 +1,368 @@
+# macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever - Apple
+
+Source: https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/
+Scraped: 2026-02-01 02:17:00
+
+---
+
+opens in new window
+
+PRESS RELEASE
+
+June 9, 2025
+
+macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever
+
+Introducing a stunning new design, more Continuity experiences with the Phone app and Live Activities, the biggest update to Spotlight ever, and expanded Apple Intelligence capabilities
+
+macOS Tahoe 26 introduces a beautiful new design, additional Continuity experiences, along with even more features to turbocharge productivity.
+
+CUPERTINO, CALIFORNIA
+
+Apple today previewed the next major macOS release —
+macOS Tahoe 26
+— which introduces a stunning new design and powerful capabilities that enable users to get even more done. With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars. Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. Continuity gets even better with the Phone app arriving on Mac, so users can access familiar features from iPhone — including Recents, Contacts, and Voicemails — and new ones like Call Screening
+1
+and Hold Assist.
+2
+And with Live Activities from iPhone, users can stay on top of things happening in real time, like an upcoming flight, right on their Mac. Spotlight gets its biggest update ever, allowing users to now directly execute hundreds of actions — like sending an email or creating a note — and take advantage of all-new browsing experiences to get to content faster.
+
+Apple Intelligence expands with powerful new features that elevate the Mac experience further, while protecting privacy at every step. Live Translation helps users easily communicate across languages, translating text and audio. Genmoji and Image Playground offer new options for creativity.
+3
+Shortcuts get even more powerful with intelligent actions and the ability to now tap directly into Apple Intelligence models to automate complex tasks.
+
+“macOS is the heart and soul of the Mac, and with Tahoe, we’re building on what users love most. Whether you’re a power user or just getting started on Mac, there’s something for everyone, with even more features to turbocharge productivity and make working across Mac and iPhone more seamless than ever before,” said Craig Federighi, Apple’s senior vice president of Software Engineering. “With its gorgeous new design, amazing Continuity experiences, powerful enhancements to Spotlight, more intelligent shortcuts, and updates to Apple Intelligence, the Mac experience is better than ever.”
+
+The new design unlocks even more ways to personalize the Mac.
+
+The new design unlocks even more ways to personalize the Mac.
+
+The new design unlocks even more ways to personalize the Mac.
+
+A Gorgeous New Design
+
+The gorgeous new design enhances the Mac experience in new ways, while maintaining the familiarity of macOS. It is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings. The Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content. The menu bar is now completely transparent, making the display feel even larger. There are more ways to customize what controls appear in the menu bar and Control Center, along with how they’re laid out. The new design also unlocks more personalization on the Mac. App icons come to life in light or dark appearances, colorful new light and dark tints, as well as an elegant new clear look. Users can also change the colors of folders and add a symbol or emoji to give them a unique identity. And when combined with personalized wallpapers and theme colors, it’s easier than ever to make Mac a seamless extension of a user’s style.
+
+The new design elevates iconic elements of macOS, making them at once fresh and timelessly Mac. From the moment a user unlocks their Mac, the desktop is instantly familiar.
+
+There are more ways to customize what controls appear in Control Center and the menu bar, along with how they’re laid out.
+
+Sidebars and toolbars in apps are crafted from Liquid Glass, bringing more focus to users’ content and reflecting the depth of their workspace.
+
+New Continuity Experiences with the Phone App and Live Activities
+
+The Phone app arrives on Mac thanks to Continuity, which lets users relay cellular calls from their nearby iPhone. The Phone app on Mac has the familiar features of the Phone app on iPhone — including Recents, Favorites, and Voicemails — and the latest updates like Call Screening and Hold Assist. Call Screening automatically answers calls from unknown numbers and asks the caller for information so a user can decide whether or not to answer. And when a user is stuck on hold, Hold Assist allows them to keep their spot in line while they wait for a live agent, so users can continue working on their Mac.
+
+With the new Phone app for Mac, users can conveniently access familiar content — like Recents, Contacts, and Voicemail — synced from iPhone, and easily make a call with a click.
+
+Incoming calls look beautiful on the bigger screen, featuring Contact Posters of friends, family, and colleagues.
+
+Live Activities from a user’s nearby iPhone will now appear in the menu bar on their Mac so they can stay on top of things happening in real time, like an upcoming Uber ride, flight, or live sports score. When clicking on a Live Activity, the app opens in iPhone Mirroring to show more information so users can take action right from their Mac.
+
+Live Activities from iPhone appear in the menu bar on Mac; and when users click on one, the app opens in iPhone Mirroring to show more information.
+
+The Biggest Update Ever to Spotlight
+
+Spotlight, the central place to search for things on Mac, makes finding what users are looking for easier than ever, and provides users with all-new ways to take action. During a search, all results — including files, folders, events, apps, messages, and more — are now listed together and ranked intelligently based on relevance to the user. New filtering options rapidly narrow searches to exactly what a user is looking for, like PDFs or Mail messages. Spotlight can also surface results for documents stored on third-party cloud drives. And when a user doesn’t know exactly what they’re searching for, Spotlight’s new browse views make it easy to scan through their apps, files, clipboard history, and more.
+
+All of a user’s apps are now on view in Spotlight, including apps from their iPhone, thanks to iPhone Mirroring.
+
+Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps.
+
+Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps. Users can take actions from both Apple apps and apps built by developers, because any app can provide actions to Spotlight using the App Intents API. Users can also run shortcuts and perform actions from the menu bar in the app they’re currently working in, all without lifting their hands off the keyboard. Spotlight learns from users’ routines across the system and surfaces personalized actions, such as sending a message to a colleague a user regularly talks to. Additionally, Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.
+
+Items from the menu bar for the app a user is currently working in are searchable in Spotlight.
+
+Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.
+
+Brand-New Capabilities Powered by Apple Intelligence
+
+Apple Intelligence, the personal intelligence system that delivers helpful and relevant intelligence, gets even more capable while protecting users’ privacy at every step.
+
+Seamless communication across language barriers with Live Translation
+: In Messages, Live Translation can automatically translate messages, so if a user is making plans with new friends while traveling abroad, their message can be translated as they type and delivered in the recipient’s preferred language. And when the user receives a response, each text can be instantly translated.
+4
+On FaceTime, a user can follow along with translated live captions while still hearing the speaker’s voice. And when a user is on a call in the Phone app, their words are translated for the recipient as they speak.
+5
+This is enabled by Apple-built models that run entirely on device, so conversations stay private.
+
+Shortcuts get more intelligent
+: A whole new class of intelligent actions lets users create shortcuts that are more powerful than ever, including summarizing text with Writing Tools and creating images with Image Playground. And now users will be able to tap directly into Apple Intelligence models, either on-device or with Private Cloud Compute, to generate responses that feed into the rest of their shortcut, maintaining the privacy of information used. For example, a student can build a shortcut that uses Apple Intelligence models to compare an audio transcription of a class lecture to the notes they took, and add any key points they may have missed. Users can also choose to tap into ChatGPT for its broad world knowledge and expertise. Additionally, users can now run shortcuts automatically on macOS, such as at a specific time of day, or when taking a specific action like saving a file to a folder or connecting a display.
+
+Updates to Genmoji and Image Playground
+: macOS Tahoe brings new ways to create Genmoji, giving users the ability to start with existing emoji and descriptions, modify personal attributes like hair length or accessories, and select expressions based on the moment. Users will also have more control of personal attributes and expressions in Image Playground, and can tap into brand-new styles with ChatGPT, like an oil painting style or vector art. For moments when users have a specific idea in mind, they can tap Any Style and describe exactly what they want.
+
+Increased productivity with Reminders
+: Apple Intelligence can review an email, website, note, or other content on Mac to find the most relevant action items. And users can also choose to use Apple Intelligence to automatically categorize Reminders into sections to make them more manageable.
+
+Live Translation on FaceTime helps users communicate across languages by following along with translated live captions while still hearing the speaker’s voice.
+
+In Image Playground, users can tap into brand-new styles with ChatGPT.
+
+In Shortcuts, a whole new class of intelligent actions lets users create shortcuts that are more powerful than ever.
+
+New Apple Games App, Game Overlay, and More Titles
+
+macOS Tahoe introduces Apple Games, a dedicated app that gives players a home for all their games, making it easier to jump back into favorites, discover new games tailored just for them, and play with friends in whole new ways. With the new Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game. Players can also turn on Low Power Mode, which extends gaming sessions and maximizes playtime on battery. For developers, macOS Tahoe introduces Metal 4, which brings even more advanced graphics and next-generation rendering technologies to games, like MetalFX Frame Interpolation and MetalFX Denoising, for smoother visuals and faster frame rates.
+
+The new Apple Games app is an all-in-one destination that gives players a home for all their games and playing with friends.
+
+Alongside these improvements, developers continue to deliver exciting new games on Mac, including upcoming titles like Crimson Desert and InZOI. Both games leverage powerful software technologies like MetalFX Upscaling to accelerate performance and deliver high-quality visuals, as well as take advantage of the M3 and M4 family of chips with ray tracing for a breathtaking experience. Additional titles on the way include Cyberpunk 2077, Cronos: The New Dawn, Architect: Land of Exiles, Lies of P: Overture, HITMAN World of Assassination, EVE Frontier, Where Winds Meet, and more.
+
+With Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.
+
+Additional features in macOS Tahoe include:
+
+Safari
+, the world’s fastest browser,
+6
+offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar with new sections to help users more easily find saved content like iCloud Tabs and Saved. When compared to Chrome, Safari is 50 percent faster at loading frequently visited websites
+7
+and offers up to four more hours of battery life when streaming video.
+8
+And for even greater protection from trackers when browsing, Safari now offers advanced fingerprinting protection in all browsing by default.
+
+The
+Messages app
+brings Backgrounds, Polls, and a redesigned details view that helps users easily navigate what has been shared in a conversation. Plus, it features typing indicators in groups to let participants know exactly who is going to chime in, as well as the ability to add new contacts easily right from the group chat and search with more natural language.
+
+Journal
+comes to Mac, making it easy to capture and write about everyday moments and special events when inspiration strikes. On Mac, it’s easy to type long, thoughtful entries and view them on a map. Users can keep multiple journals for various aspects of life, which are all synced across Apple devices.
+
+Photos
+has an updated design that includes beautiful Liquid Glass elements, enhancements for customization, easier workflows, and sidebar consistency with iPadOS. Pinned Collections now come to Mac, so users can access the collections they use most with a click on the sidebar. Users will also find new buttons to quickly access filtering and sorting options in all views, and the ability to customize the size of Collections tiles, so they can view their library just how they like.
+
+On
+FaceTime
+, the reimagined landing page features beautiful Contact Posters of recent callers, Liquid Glass controls now float in the bottom right and recede to create more space, and a new More button lets users quickly access features like SharePlay and Live Translation.
+
+Notes
+adds the ability to import and export a note into a markdown file, and support for capturing conversations in the Phone app as audio recordings with transcriptions.
+
+Accessibility
+features include
+Magnifier on Mac
+, which enables users with low vision to zoom in on their surroundings using Continuity Camera on iPhone or attached USB cameras, apply image filters so items are easier to see or read, and even change perspective when viewing presentations or books from an angle. Additional features include
+Accessibility Reader
+, a new systemwide reading mode designed with accessibility in mind; an all-new
+Braille Access
+experience that offers a user-friendly interface for those with a connected braille display; and
+Vehicle Motion Cues
+, which helps reduce motion sickness in a moving vehicle.
+
+With
+Passwords
+, users can easily reference changes they make to their accounts, including checking previous versions of passwords they save, along with details on when they were changed.
+
+Safari offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar.
+
+Backgrounds in Messages let users personalize their chats with dynamic built-in designs, any of their own photos, or using Image Playground.
+
+Availability
+
+All of these features are available for testing starting today through the Apple Developer Program at
+developer.apple.com
+, and a public beta will be available through the Apple Beta Software Program next month at
+beta.apple.com
+. The release will be available as a free software update this fall. The Apple Intelligence features detailed require supported devices, which include all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later that have Apple Intelligence enabled and Siri and device language set to the same supported language: English, French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, or Chinese (simplified). More languages will be coming by the end of this year: Danish, Dutch, Norwegian, Portuguese (Portugal), Swedish, Turkish, Chinese (traditional), and Vietnamese. For more information, visit
+apple.com/os/macos
+and
+apple.com/apple-intelligence
+. Features are subject to change. Some features may not be available in all languages or regions, and availability may vary due to local laws and regulations. For more information about availability, visit
+apple.com
+.
+
+Share article
+
+Media
+
+Text of this article
+
+June 9, 2025
+
+PRESS RELEASE
+
+macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever
+
+Introducing a stunning new design, more Continuity experiences with the Phone app and Live Activities, the biggest update to Spotlight ever, and expanded Apple Intelligence capabilities
+
+CUPERTINO, CALIFORNIA
+
+Apple today previewed the next major macOS release —
+macOS Tahoe 26
+— which introduces a stunning new design and powerful capabilities that enable users to get even more done. With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars. Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. Continuity gets even better with the Phone app arriving on Mac, so users can access familiar features from iPhone — including Recents, Contacts, and Voicemails — and new ones like Call Screening
+1
+and Hold Assist.
+2
+And with Live Activities from iPhone, users can stay on top of things happening in real time, like an upcoming flight, right on their Mac. Spotlight gets its biggest update ever, allowing users to now directly execute hundreds of actions — like sending an email or creating a note — and take advantage of all-new browsing experiences to get to content faster.
+
+Apple Intelligence expands with powerful new features that elevate the Mac experience further, while protecting privacy at every step. Live Translation helps users easily communicate across languages, translating text and audio. Genmoji and Image Playground offer new options for creativity.
+3
+Shortcuts get even more powerful with intelligent actions and the ability to now tap directly into Apple Intelligence models to automate complex tasks.
+
+“macOS is the heart and soul of the Mac, and with Tahoe, we’re building on what users love most. Whether you’re a power user or just getting started on Mac, there’s something for everyone, with even more features to turbocharge productivity and make working across Mac and iPhone more seamless than ever before,” said Craig Federighi, Apple’s senior vice president of Software Engineering. “With its gorgeous new design, amazing Continuity experiences, powerful enhancements to Spotlight, more intelligent shortcuts, and updates to Apple Intelligence, the Mac experience is better than ever.”
+
+A Gorgeous New Design
+
+The gorgeous new design enhances the Mac experience in new ways, while maintaining the familiarity of macOS. It is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings. The Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content. The menu bar is now completely transparent, making the display feel even larger. There are more ways to customize what controls appear in the menu bar and Control Center, along with how they’re laid out. The new design also unlocks more personalization on the Mac. App icons come to life in light or dark appearances, colorful new light and dark tints, as well as an elegant new clear look. Users can also change the colors of folders and add a symbol or emoji to give them a unique identity. And when combined with personalized wallpapers and theme colors, it’s easier than ever to make Mac a seamless extension of a user’s style.
+
+New Continuity Experiences with the Phone App and Live Activities
+
+The Phone app arrives on Mac thanks to Continuity, which lets users relay cellular calls from their nearby iPhone. The Phone app on Mac has the familiar features of the Phone app on iPhone — including Recents, Favorites, and Voicemails — and the latest updates like Call Screening and Hold Assist. Call Screening automatically answers calls from unknown numbers and asks the caller for information so a user can decide whether or not to answer. And when a user is stuck on hold, Hold Assist allows them to keep their spot in line while they wait for a live agent, so users can continue working on their Mac.
+
+Live Activities from a user’s nearby iPhone will now appear in the menu bar on their Mac so they can stay on top of things happening in real time, like an upcoming Uber ride, flight, or live sports score. When clicking on a Live Activity, the app opens in iPhone Mirroring to show more information so users can take action right from their Mac.
+
+The Biggest Update Ever to Spotlight
+
+Spotlight, the central place to search for things on Mac, makes finding what users are looking for easier than ever, and provides users with all-new ways to take action. During a search, all results — including files, folders, events, apps, messages, and more — are now listed together and ranked intelligently based on relevance to the user. New filtering options rapidly narrow searches to exactly what a user is looking for, like PDFs or Mail messages. Spotlight can also surface results for documents stored on third-party cloud drives. And when a user doesn’t know exactly what they’re searching for, Spotlight’s new browse views make it easy to scan through their apps, files, clipboard history, and more.
+
+Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps. Users can take actions from both Apple apps and apps built by developers, because any app can provide actions to Spotlight using the App Intents API. Users can also run shortcuts and perform actions from the menu bar in the app they’re currently working in, all without lifting their hands off the keyboard. Spotlight learns from users’ routines across the system and surfaces personalized actions, such as sending a message to a colleague a user regularly talks to. Additionally, Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.
+
+Brand-New Capabilities Powered by Apple Intelligence
+
+Apple Intelligence, the personal intelligence system that delivers helpful and relevant intelligence, gets even more capable while protecting users’ privacy at every step.
+
+Seamless communication across language barriers with Live Translation
+: In Messages, Live Translation can automatically translate messages, so if a user is making plans with new friends while traveling abroad, their message can be translated as they type and delivered in the recipient’s preferred language. And when the user receives a response, each text can be instantly translated.
+4
+On FaceTime, a user can follow along with translated live captions while still hearing the speaker’s voice. And when a user is on a call in the Phone app, their words are translated for the recipient as they speak.
+5
+This is enabled by Apple-built models that run entirely on device, so conversations stay private.
+
+Shortcuts get more intelligent
+: A whole new class of intelligent actions lets users create shortcuts that are more powerful than ever, including summarizing text with Writing Tools and creating images with Image Playground. And now users will be able to tap directly into Apple Intelligence models, either on-device or with Private Cloud Compute, to generate responses that feed into the rest of their shortcut, maintaining the privacy of information used. For example, a student can build a shortcut that uses Apple Intelligence models to compare an audio transcription of a class lecture to the notes they took, and add any key points they may have missed. Users can also choose to tap into ChatGPT for its broad world knowledge and expertise. Additionally, users can now run shortcuts automatically on macOS, such as at a specific time of day, or when taking a specific action like saving a file to a folder or connecting a display.
+
+Updates to Genmoji and Image Playground
+: macOS Tahoe brings new ways to create Genmoji, giving users the ability to start with existing emoji and descriptions, modify personal attributes like hair length or accessories, and select expressions based on the moment. Users will also have more control of personal attributes and expressions in Image Playground, and can tap into brand-new styles with ChatGPT, like an oil painting style or vector art. For moments when users have a specific idea in mind, they can tap Any Style and describe exactly what they want.
+
+Increased productivity with Reminders
+: Apple Intelligence can review an email, website, note, or other content on Mac to find the most relevant action items. And users can also choose to use Apple Intelligence to automatically categorize Reminders into sections to make them more manageable.
+
+New Apple Games App, Game Overlay, and More Titles
+
+macOS Tahoe introduces Apple Games, a dedicated app that gives players a home for all their games, making it easier to jump back into favorites, discover new games tailored just for them, and play with friends in whole new ways. With the new Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game. Players can also turn on Low Power Mode, which extends gaming sessions and maximizes playtime on battery. For developers, macOS Tahoe introduces Metal 4, which brings even more advanced graphics and next-generation rendering technologies to games, like MetalFX Frame Interpolation and MetalFX Denoising, for smoother visuals and faster frame rates.
+
+Alongside these improvements, developers continue to deliver exciting new games on Mac, including upcoming titles like Crimson Desert and InZOI. Both games leverage powerful software technologies like MetalFX Upscaling to accelerate performance and deliver high-quality visuals, as well as take advantage of the M3 and M4 family of chips with ray tracing for a breathtaking experience. Additional titles on the way include Cyberpunk 2077, Cronos: The New Dawn, Architect: Land of Exiles, Lies of P: Overture, HITMAN World of Assassination, EVE Frontier, Where Winds Meet, and more.
+
+Additional features in macOS Tahoe include:
+
+Safari
+, the world’s fastest browser,
+6
+offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar with new sections to help users more easily find saved content like iCloud Tabs and Saved. When compared to Chrome, Safari is 50 percent faster at loading frequently visited websites
+7
+and offers up to four more hours of battery life when streaming video.
+8
+And for even greater protection from trackers when browsing, Safari now offers advanced fingerprinting protection in all browsing by default.
+
+The
+Messages app
+brings Backgrounds, Polls, and a redesigned details view that helps users easily navigate what has been shared in a conversation. Plus, it features typing indicators in groups to let participants know exactly who is going to chime in, as well as the ability to add new contacts easily right from the group chat and search with more natural language.
+
+Journal
+comes to Mac, making it easy to capture and write about everyday moments and special events when inspiration strikes. On Mac, it’s easy to type long, thoughtful entries and view them on a map. Users can keep multiple journals for various aspects of life, which are all synced across Apple devices.
+
+Photos
+has an updated design that includes beautiful Liquid Glass elements, enhancements for customization, easier workflows, and sidebar consistency with iPadOS. Pinned Collections now come to Mac, so users can access the collections they use most with a click on the sidebar. Users will also find new buttons to quickly access filtering and sorting options in all views, and the ability to customize the size of Collections tiles, so they can view their library just how they like.
+
+On
+FaceTime
+, the reimagined landing page features beautiful Contact Posters of recent callers, Liquid Glass controls now float in the bottom right and recede to create more space, and a new More button lets users quickly access features like SharePlay and Live Translation.
+
+Notes
+adds the ability to import and export a note into a markdown file, and support for capturing conversations in the Phone app as audio recordings with transcriptions.
+
+Accessibility
+features include
+Magnifier on Mac
+, which enables users with low vision to zoom in on their surroundings using Continuity Camera on iPhone or attached USB cameras, apply image filters so items are easier to see or read, and even change perspective when viewing presentations or books from an angle. Additional features include
+Accessibility Reader
+, a new systemwide reading mode designed with accessibility in mind; an all-new
+Braille Access
+experience that offers a user-friendly interface for those with a connected braille display; and
+Vehicle Motion Cues
+, which helps reduce motion sickness in a moving vehicle.
+
+With
+Passwords
+, users can easily reference changes they make to their accounts, including checking previous versions of passwords they save, along with details on when they were changed.
+
+Availability
+
+All of these features are available for testing starting today through the Apple Developer Program at
+developer.apple.com
+, and a public beta will be available through the Apple Beta Software Program next month at
+beta.apple.com
+. The release will be available as a free software update this fall. The Apple Intelligence features detailed require supported devices, which include all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later that have Apple Intelligence enabled and Siri and device language set to the same supported language: English, French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, or Chinese (simplified). More languages will be coming by the end of this year: Danish, Dutch, Norwegian, Portuguese (Portugal), Swedish, Turkish, Chinese (traditional), and Vietnamese. For more information, visit
+apple.com/os/macos
+and
+apple.com/apple-intelligence
+. Features are subject to change. Some features may not be available in all languages or regions, and availability may vary due to local laws and regulations. For more information about availability, visit
+apple.com
+.
+
+About Apple
+
+Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, AirPods, Apple Watch, and Apple Vision Pro. Apple’s six software platforms — iOS, iPadOS, macOS, watchOS, visionOS, and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, iCloud, and Apple TV+. Apple’s more than 150,000 employees are dedicated to making the best products on earth and to leaving the world better than we found it.
+
+Call Screening supports Cantonese (China mainland, Hong Kong, Macao), English (U.S., Australia, Canada, India, Ireland, New Zealand, Puerto Rico, Singapore, South Africa, UK), French (Canada, France), German (Germany), Japanese (Japan), Korean (Korea), Mandarin Chinese (China mainland, Taiwan, Macao), Portuguese (Brazil), and Spanish (U.S., Mexico, Puerto Rico, Spain).
+
+Hold Assist will be available in English (U.S.), English (Canada), English (UK), English (Singapore), English (Australia), English (India), French (France), Spanish (U.S.), Spanish (Mexico), Spanish (Spain), German (Germany), Portuguese (Brazil), Japanese (Japan), and Mandarin Chinese (mainland China).
+
+Genmoji and Image Playground are available in English, French, German, Italian, Portuguese (Brazil), Spanish, and Japanese.
+
+Live Translation in Messages supports English (U.S., UK), French (France), German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish (Spain), and Chinese (simplified).
+
+Live Translation in Phone and FaceTime is available for one-on-one calls in English (U.S., UK), French (France), German, Portuguese (Brazil), and Spanish (Spain).
+
+Testing conducted by Apple in May 2025 using JetStream 2.2, MotionMark 1.3.1, and Speedometer 3.1 performance benchmarks. Tested with prerelease Safari 26.0 and latest stable versions of Chrome, Microsoft Edge, and Firefox at the time of testing on: 15-inch MacBook Air systems with Apple M4 and prerelease macOS Tahoe, and Intel Core Ultra 9-based PC systems with Intel Arc Graphics and Windows 11 Home; iPad Pro 13-inch (M4) units with prerelease iPadOS 26.0, and Intel Core Ultra 7-based PC systems with Intel Arc Graphics and Windows 11 Pro; and iPhone 16 Pro Max with prerelease iOS 26.0, and Qualcomm Snapdragon 8 Elite-based smartphones with Android 15. Devices tested with a WPA2 Wi-Fi network connection. Performance will vary based on usage, system configuration, network connection, and other factors.
+
+Testing conducted by Apple in May 2025 by measuring page load performance of snapshot versions of 10 popular websites under simulated network conditions. Tested on production 15-inch MacBook Air systems with Apple M4, 16GB of RAM, 256GB SSD, and prerelease macOS Tahoe. Tested with prerelease Safari 26.0 and Chrome v136.0.7103.93. Performance will vary based on usage, system configuration, network connection, and other factors.
+
+Testing conducted by Apple in May 2025 on production 15-inch MacBook Air systems with Apple M4, 16GB of RAM, 256GB SSD, and prerelease macOS Tahoe. Systems tested with WPA2 Wi-Fi network connection while running on battery power, with display brightness set to 8 clicks from bottom and keyboard backlight off. Video streaming tested with 1080p content on prerelease Safari 26.0 and Chrome v136.0.7103.93. Not all features are available on all devices. Battery life varies by use and configuration. See
+apple.com/batteries
+for more information.
+
+Press Contacts
+
+Apple Media Helpline
+
+media.help@apple.com
+
+Apple Media Helpline
+
+media.uk@apple.com
+
+Copy text
+
+Images in this article
+
+Download all images
+
+Call Screening supports Cantonese (China mainland, Hong Kong, Macao), English (U.S., Australia, Canada, India, Ireland, New Zealand, Puerto Rico, Singapore, South Africa, UK), French (Canada, France), German (Germany), Japanese (Japan), Korean (Korea), Mandarin Chinese (China mainland, Taiwan, Macao), Portuguese (Brazil), and Spanish (U.S., Mexico, Puerto Rico, Spain).
+
+Hold Assist will be available in English (U.S.), English (Canada), English (UK), English (Singapore), English (Australia), English (India), French (France), Spanish (U.S.), Spanish (Mexico), Spanish (Spain), German (Germany), Portuguese (Brazil), Japanese (Japan), and Mandarin Chinese (mainland China).
+
+Genmoji and Image Playground are available in English, French, German, Italian, Portuguese (Brazil), Spanish, and Japanese.
+
+Live Translation in Messages supports English (U.S., UK), French (France), German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish (Spain), and Chinese (simplified).
+
+Live Translation in Phone and FaceTime is available for one-on-one calls in English (U.S., UK), French (France), German, Portuguese (Brazil), and Spanish (Spain).
+
+Testing conducted by Apple in May 2025 using JetStream 2.2, MotionMark 1.3.1, and Speedometer 3.1 performance benchmarks. Tested with prerelease Safari 26.0 and latest stable versions of Chrome, Microsoft Edge, and Firefox at the time of testing on: 15-inch MacBook Air systems with Apple M4 and prerelease macOS Tahoe, and Intel Core Ultra 9-based PC systems with Intel Arc Graphics and Windows 11 Home; iPad Pro 13-inch (M4) units with prerelease iPadOS 26.0, and Intel Core Ultra 7-based PC systems with Intel Arc Graphics and Windows 11 Pro; and iPhone 16 Pro Max with prerelease iOS 26.0, and Qualcomm Snapdragon 8 Elite-based smartphones with Android 15. Devices tested with a WPA2 Wi-Fi network connection. Performance will vary based on usage, system configuration, network connection, and other factors.
+
+Testing conducted by Apple in May 2025 by measuring page load performance of snapshot versions of 10 popular websites under simulated network conditions. Tested on production 15-inch MacBook Air systems with Apple M4, 16GB of RAM, 256GB SSD, and prerelease macOS Tahoe. Tested with prerelease Safari 26.0 and Chrome v136.0.7103.93. Performance will vary based on usage, system configuration, network connection, and other factors.
+
+Testing conducted by Apple in May 2025 on production 15-inch MacBook Air systems with Apple M4, 16GB of RAM, 256GB SSD, and prerelease macOS Tahoe. Systems tested with WPA2 Wi-Fi network connection while running on battery power, with display brightness set to 8 clicks from bottom and keyboard backlight off. Video streaming tested with 1080p content on prerelease Safari 26.0 and Chrome v136.0.7103.93. Not all features are available on all devices. Battery life varies by use and configuration. See
+apple.com/batteries
+for more information.
+
+Press Contacts
+
+Apple Media Helpline
+
+media.help@apple.com
+
+Apple Media Helpline
+
+media.uk@apple.com

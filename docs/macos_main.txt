@@ -1,0 +1,156 @@
+# OS - macOS Tahoe - Apple
+
+Source: https://www.apple.com/macos/
+Scraped: 2026-02-01 02:16:51
+
+---
+
+macOS Tahoe
+
+Fresh faced.
+Timelessly Mac.
+
+Liquid Glass
+
+New Phone app
+
+Spotlight
+
+More powerful shortcuts
+
+A new design with Liquid Glass. Beautiful, delightful, and instantly familiar.
+
+Now with the Phone app
+1
+and Live Activities
+2
+from iPhone for next‑level Continuity.
+
+Take hundreds of actions in Spotlight without lifting your hands off the keyboard.
+
+Create more powerful shortcuts than ever with Apple Intelligence.
+3
+
+Delightful new design.
+
+Liquid Glass refracts and reflects content in real time, bringing even more clarity to navigation and controls — and even more vitality to everything you do.
+
+Updated app icons.
+
+Personalize your Mac with new options including updated light or dark appearances, new color-tinted icons, or a stunning clear look.
+
+Personalized controls and menu bar.
+
+Your display feels even larger with the transparent menu bar. And you have more ways to customize the controls and layout in the menu bar and Control Center, even those from third parties.
+
+Refreshed apps.
+
+Sidebars and toolbars in apps reflect the depth of your workspace and offer a subtle hint of the content within reach as you scroll.
+
+Live Translation.
+
+Automatically translate texts in Messages,
+4
+display live translated captions in FaceTime, and get spoken translations for calls in the Phone app.
+5
+
+Accelerate your workflows.
+
+Intelligent actions in Shortcuts can summarize text, create images, or tap directly into Apple Intelligence models to provide responses that feed into your shortcut.
+
+More ways to express yourself with images.
+
+Mix emoji and descriptions to make something brand-new. In Image Playground, discover additional ChatGPT styles. And have even more control when making images inspired by family and friends using Genmoji and Image Playground.
+
+Live Activities on Mac.
+
+The menu bar now features the Live Activities from your iPhone. And when you click one, the app opens in iPhone Mirroring so you can take action.
+2
+
+New Phone app for Mac.
+
+Make and take calls with a click. Conveniently access your synced content like Recents, Contacts, and Voicemail — and enjoy the familiar features from iPhone.
+1
+
+Manage unwanted calls.
+
+For unknown numbers, Call Screening finds out who’s calling and why. Once the caller shares their name and the reason for their call, your phone rings and you can decide if you want to pick up.
+6
+
+Stay productive while on hold.
+
+Hold Assist keeps your spot in line while you wait for a live agent and notifies you when they’re ready.
+7
+
+Biggest Spotlight update ever.
+
+Spotlight lets you take hundreds of actions without lifting your hands off the keyboard. And new quick keys help you perform actions even faster.
+
+A faster way to browse.
+
+You can now keep all your apps and most accessed files within easy reach, including intelligent suggestions based on your routines.
+
+Smart, effortless automation.
+
+Now you can run shortcuts automatically — at a specific time of day or when you take specific actions, like saving a file to a particular folder or connecting to a display.
+
+Accessibility.
+Magnifier lets you zoom in on your surroundings using a connected camera. Accessibility Reader provides a systemwide, customized reading and listening experience. Braille Access creates an all-new interface for braille displays.
+8
+And Vehicle Motion Cues help reduce motion sickness in moving vehicles.
+
+Family.
+Parents can take advantage of a wide set of parental controls designed to keep children safe. These include new enhancements across Communication Limits, Communication Safety, and the App Store.
+
+Journal.
+Now on Mac for the most comfortable writing experience, Journal makes it easy to capture and write about everyday moments and special events using photos, videos, audio recordings, places, and more.
+
+Photos.
+An updated design lets you quickly access filtering and sorting options and customize the size of Collections tiles so you can view your library just how you like. And with Pinned Collections, you can keep your most-visited ones right at your fingertips.
+
+FaceTime.
+Celebrate the people who matter most with a new tiled design that features beautiful and personalized Contact Posters.
+
+Reminders.
+With Apple Intelligence, Reminders can suggest tasks, grocery items, and follow-ups based on emails or other text on your device. It can also automatically categorize related reminders into sections within a list.
+
+Games.
+The new Games app brings together all the games you have on your Mac. In the Game Overlay, you can adjust system settings, chat with friends, or invite them to play — all without leaving the game. And for developers, Metal 4 brings even more advanced graphics and rendering technologies, like MetalFX Frame Interpolation and Denoising.
+
+Messages.
+Create polls and personalize conversations with backgrounds. Redesigned conversation details feature designated sections for contact info, photos, links, location, and more. Typing indicators in groups let you know exactly who is about to chime in. Screening tools detect spam and give you control. And the Add Contact button now appears next to an unknown number in a group.
+
+Passwords.
+Easily refer to changes you’ve made to your accounts. Find previous versions of passwords, along with when they were changed.
+
+Notes.
+Capture conversations in the Phone app as audio recordings with transcriptions.
+9
+You can also export a note into a Markdown file.
+
+macOS Tahoe is compatible with
+these devices.
+
+Explore Mac
+
+MacBook Air with Apple silicon (2020 and later)
+
+MacBook Pro with Apple silicon (2020 and later)
+
+MacBook Pro
+(16‑inch, 2019)
+
+MacBook Pro
+(13‑inch, 2020, Four Thunderbolt 3 ports)
+
+iMac (2020 and later)
+
+Mac mini (2020 and later)
+
+Mac Studio (2022 and later)
+
+Mac Pro (2019 and later)
+
+Developers will love macOS Tahoe, too.
+
+Learn more about developing for macOS

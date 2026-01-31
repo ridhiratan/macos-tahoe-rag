@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>macOS Tahoe Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>macOS Tahoe Assistant</h1>
+            <p>Ask me anything about macOS Tahoe (macOS 26)</p>
+        </header>
+
+        <div class="chat-container" id="chatContainer">
+            <div class="message assistant">
+                <div class="message-content">
+                    Hello! I'm your macOS Tahoe assistant. Ask me anything about macOS 26 - features, settings, compatibility, and more.
+                </div>
+            </div>
+        </div>
+
+        <form class="input-container" id="chatForm">
+            <input
+                type="text"
+                id="messageInput"
+                placeholder="Ask about macOS Tahoe..."
+                autocomplete="off"
+                required
+            >
+            <button type="submit" id="sendBtn">Send</button>
+        </form>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

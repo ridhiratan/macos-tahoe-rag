@@ -1,0 +1,81 @@
+# macOS Tahoe is compatible with these computers - Apple Support
+
+Source: https://support.apple.com/en-us/122867
+Scraped: 2026-02-01 02:16:56
+
+---
+
+macOS Tahoe is compatible with these computers
+
+You can install macOS Tahoe 26 on any of these Mac models.
+
+Learn how to upgrade to macOS Tahoe 26
+, the latest version of the Mac operating system. If your Mac isn't compatible with macOS Tahoe, you might be able to
+upgrade to an earlier version of macOS
+instead.
+
+MacBook Pro
+
+Identify your MacBook Pro
+
+MacBook Pro (14-inch, M5)
+MacBook Pro (16-inch, 2024)
+MacBook Pro (14-inch, 2024)
+MacBook Pro (16-inch, 2023)
+MacBook Pro (14-inch, 2023)
+MacBook Pro (13-inch, M2, 2022)
+MacBook Pro (16-inch, 2021)
+MacBook Pro (14-inch, 2021)
+MacBook Pro (13-inch, M1, 2020)
+MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
+MacBook Pro (16-inch, 2019)
+
+MacBook Air
+
+Identify your MacBook Air
+
+MacBook Air (15-inch, M4, 2025)
+MacBook Air (13-inch, M4, 2025)
+MacBook Air (15-inch, M3, 2024)
+MacBook Air (13-inch, M3, 2024)
+MacBook Air (15-inch, M2, 2023)
+MacBook Air (M2, 2022)
+MacBook Air (M1, 2020)
+
+iMac
+
+Identify your iMac
+
+iMac (24-inch, 2024, Four ports)
+iMac (24-inch, 2024, Two ports)
+iMac (24-inch, 2023, Four ports)
+iMac (24-inch, 2023, Two ports)
+iMac (24-inch, M1, 2021)
+iMac (Retina 5K, 27-inch, 2020)
+
+Mac mini
+
+Identify your Mac mini
+
+Mac mini (2024)
+Mac mini (2023)
+Mac mini (M1, 2020)
+
+Mac Studio
+
+Identify your Mac Studio
+
+Mac Studio (2025)
+Mac Studio (2023)
+Mac Studio (2022)
+
+Mac Pro
+
+Identify your Mac Pro
+
+Mac Pro (2023)
+Mac Pro (2019)
+
+Published Date:
+
+November 03, 2025
