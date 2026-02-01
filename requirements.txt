@@ -4,8 +4,9 @@ anthropic==0.77.0
 python-dotenv==1.0.1
 langchain
 langchain-community
+langchain-chroma
+langchain-text-splitters
 chromadb
 sentence-transformers
 beautifulsoup4
 requests
-playwright
