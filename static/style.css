@@ -78,6 +78,16 @@ header p {
     border-bottom-left-radius: 4px;
 }
 
+.sources {
+    font-size: 0.75rem;
+    color: #888;
+    margin-top: 6px;
+    padding: 4px 8px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 8px;
+    border-left: 2px solid #667eea;
+}
+
 .input-container {
     display: flex;
     gap: 12px;

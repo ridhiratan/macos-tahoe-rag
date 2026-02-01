@@ -1,0 +1,43 @@
+# If your Mac battery runs out of charge quickly - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/if-your-battery-runs-out-of-charge-quickly-mh27540/mac
+Scraped: 2026-02-02 00:22:42
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+If your Mac battery runs out of charge quickly
+
+If the battery in your Mac laptop runs out of charge more quickly than you expected, try any of the following:
+
+Check your battery’s condition. The battery’s ability to hold a charge may be less than when it was new. See Check the condition of your Mac laptop’s battery.
+
+Change your settings. For example, dim the display, turn off Bluetooth® and Wi-Fi, and set the display to turn off after a period of inactivity. See Save energy on your Mac.
+
+Turn on Low Power Mode. See Change Battery settings on a Mac laptop.
+
+Quit apps that you aren’t using. Even an app you aren’t using may be working in the background and consuming energy.
+
+Disconnect any accessories that you aren’t using, such as external hard drives.
+
+Keep your software up to date. See the Apple Support article Update macOS on Mac.
+
+See also
+Monitor your Mac laptop’s battery
+If your Mac battery won’t charge completely
+If your Mac battery status is “Not Charging”
+Helpful?
+Yes
+No

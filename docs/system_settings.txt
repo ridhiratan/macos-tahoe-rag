@@ -1,0 +1,47 @@
+# Customize your Mac with System Settings - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/change-system-settings-mh15217/mac
+Scraped: 2026-02-02 00:22:37
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Customize your Mac with System Settings
+
+You can change system settings to customize your Mac. For example, you can choose a light or dark appearance, change the wallpaper, and more.
+
+Options for your Mac are organized into settings. For example, options for setting text highlight color and folder color are located in Appearance settings.
+
+Go to the System Settings app on your Mac.
+
+Click an option in the sidebar. (You may need to scroll down.)
+
+Settings may vary depending on your Mac and the apps you’ve installed.
+
+Change any options.
+
+For most settings, you can click for more information about the options.
+
+If a red badge is shown on the System Settings icon in the Dock, you need to take one or more actions. For example, if you didn’t fully set up iCloud features, the badge appears on the icon in the Dock; when you click the icon, the settings are displayed so you can complete setup.
+
+To change options for an app, such as Mail or Safari, open the app, click the app’s name in the menu bar, then choose Settings. Some apps don’t offer settings.
+
+See also
+Find options in System Settings on Mac
+Go back to system settings you viewed earlier on Mac
+Set up iCloud features on Mac
+Helpful?
+Yes
+No

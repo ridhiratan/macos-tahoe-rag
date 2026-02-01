@@ -1,0 +1,63 @@
+# Keep your Mac up to date - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/get-macos-updates-mchlpx1065/mac
+Scraped: 2026-02-02 00:23:26
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Keep your Mac up to date
+
+To ensure you have the latest features and security updates, Apple releases software updates for macOS. These updates come with improvements for built-in apps like Safari, Mail, and Notes.
+
+If you receive a notification that software updates are available, you can choose to install the updates immediately, or choose to install the updates later that night. You can also check for macOS updates manually in Software Update settings.
+
+Tip: To check for updates to software you’ve downloaded from the App Store, open the App Store.
+
+Check for updates manually
+
+To install updates manually on your Mac, do one of the following:
+
+Go to the System Settings app on your Mac. Click General in the sidebar (you may need to scroll down), then click Software Update.
+
+To update software downloaded from the App Store, click the Apple menu—the number of available updates, if any, is shown next to App Store. Choose App Store to continue in the App Store app.
+
+Set Mac software update options
+
+Go to the System Settings app on your Mac.
+
+Click General in the sidebar. (You may need to scroll down.)
+
+Click Software Update.
+
+Click next to Automatic Updates, then do any of the following:
+
+To have your Mac download updates without asking, turn on “Download new updates when available.”
+
+To have your Mac install macOS updates automatically, turn on “Install macOS updates.”
+
+To have your Mac install system files and Rapid Security Responses automatically, turn on “Install Security Responses and system files.”
+
+Click Done.
+
+Note: Laptop computers must have the power adapter plugged in to automatically download updates.
+
+See also
+Install and uninstall apps from the internet or a disc on Mac
+Get macOS updates and apps
+Software Update settings on Mac
+Helpful?
+Yes
+No

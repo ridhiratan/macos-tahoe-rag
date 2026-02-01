@@ -1,0 +1,42 @@
+# Check the condition of your Mac laptop’s battery - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/check-the-condition-of-your-computers-battery-mh20865/mac
+Scraped: 2026-02-02 00:22:51
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Check the condition of your Mac laptop’s battery
+
+You can check whether the battery in your Mac laptop is functioning normally.
+
+To view your battery’s condition, choose Apple menu  > System Settings, then click Battery in the sidebar. (You may need to scroll down.)
+
+Look at Battery Health. You may see any of the following conditions:
+
+Normal: The battery is functioning normally.
+
+Service recommended: The battery is performing normally, but its ability to hold a charge is less than when it was new. You may want to consider replacing the battery.
+
+Note: The battery may also not be functioning normally, and you may or may not notice a change in its behavior or the amount of charge it holds. Contact Apple or an Apple Authorized Service Provider for service. Repairs performed by untrained individuals or using non-genuine Apple parts may affect the safety and functionality of the device. See Find out how to service or repair your Mac. You can continue to use your battery before it’s checked without harming your computer.
+
+To change battery health settings, click next to your battery’s condition. See the Apple Support article About battery health management in Mac laptops.
+
+See also
+What is the Battery Status menu on Mac?
+Monitor your Mac laptop’s battery
+Helpful?
+Yes
+No

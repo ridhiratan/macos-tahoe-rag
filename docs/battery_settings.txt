@@ -1,0 +1,118 @@
+# Change Battery settings on a Mac laptop - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/change-battery-settings-mchlfc3b7879/mac
+Scraped: 2026-02-02 00:22:47
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+Search this guide
+Table of Contents
+Change Battery settings on a Mac laptop
+
+Use Battery settings to set options that control your Mac laptop’s battery and energy use. How you set these options can help you optimize the lifespan of your battery.
+
+As an ENERGY STAR® partner, Apple has determined that standard configurations of your Mac meet the ENERGY STAR® guidelines for energy efficiency.
+
+For more information about ENERGY STAR, see the ENERGY STAR website.
+
+Note: Some of the options may not be available, depending on your Mac.
+
+To open these settings, choose Apple menu  > System Settings, then click Battery in the sidebar. (You may need to scroll down.)
+
+Option
+
+Description
+
+Battery
+
+See the current battery level and any battery alerts at the top.
+
+Low Power Mode
+
+Reduce energy usage to increase battery life.
+
+Energy Mode
+
+Choose which energy mode you want your Mac to use while on battery power or plugged into a power adapter.
+
+Low Power: Reduce energy usage to increase battery life.
+
+Automatic: Have your Mac automatically use the best performance level.
+
+High Power: Increase energy usage to improve performance during sustained workloads. See the Apple Support article Use High Power Mode on your 14-inch or 16-inch MacBook Pro.
+
+Battery Health
+
+See if your battery’s condition is normal, or if service is recommended. See Check the condition of your Mac laptop’s battery.
+
+Click next to the condition to turn on the following:
+
+Optimized Battery Charging: To reduce battery aging, have your Mac learn your daily charging routine. Then your Mac delays charging past 80% when it predicts that you’ll be plugged in for an extended period of time, and aims to fully charge the battery before you unplug.
+
+Manage battery longevity: Reduce peak capacity to optimize the battery’s lifespan. See the Apple Support article About battery health management in Mac laptops.
+
+Last 24 Hours
+
+View usage history from the last 24 hours:
+
+Battery Level: Shows the average charge level of your battery for each 15-minute period. Shaded areas indicate when your computer was charging.
+
+Screen On Usage: Shows how long your screen was turned on each hour or each day.
+
+Last 10 Days
+
+View usage history for the last 10 days:
+
+Energy Usage: Shows how much energy your computer used each day.
+
+Screen On Usage: Shows how long your screen was turned on each hour or each day.
+
+Additional Options
+
+Option
+
+Description
+
+Slightly dim the display on battery
+
+Conserve energy by dimming the display when your Mac is not plugged in.
+
+Prevent automatic sleeping on power adapter when the display is off
+
+Prevent your Mac from sleeping when it’s plugged in and its display is off.
+
+Put hard disks to sleep when possible
+
+Put the hard drive to sleep whenever the computer is inactive.
+
+Enable Power Nap
+
+Have your Mac check for email, calendar, and other iCloud updates while sleeping. Choose whether it checks always, only on battery power, or never.
+
+Wake for network access
+
+Even in sleep mode, wake your Mac to provide access to shared resources, such as shared printers or Music playlists. Choose whether to wake it always, when plugged into a power adapter, or never.
+
+Automatic graphics switching
+
+To optimize the lifespan of your battery, have your Mac automatically choose the best graphics mode based on your usage.
+
+Optimize video streaming while on battery
+
+While on battery power, play high-dynamic-range (HDR) video in standard dynamic range (SDR), which requires less energy. See the Apple Support article Play HDR video on Mac.
+
+If you want to turn your display off after a period of inactivity, see Change Lock Screen settings.
+
+See also
+Change Energy settings on a Mac desktop computer
+Helpful?
+Yes
+No

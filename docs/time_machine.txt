@@ -1,0 +1,58 @@
+# Back up your files with Time Machine on Mac - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/back-up-your-mac-with-time-machine-mh35860/mac
+Scraped: 2026-02-02 00:23:32
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Back up your files with Time Machine on Mac
+
+With Time Machine, you can back up files on your Mac that weren’t part of the macOS installation, such as apps, music, photos, and documents. When Time Machine is turned on, it automatically backs up your Mac and performs hourly, daily, and weekly backups of your files.
+
+When you use Time Machine, Time Machine also saves local snapshots you can use to recover previous versions of files, even if your backup disk is not attached. These snapshots are created hourly, stored on the same disk as the original files, and saved for up to 24 hours or until space is needed on the disk. Local snapshots are only created on disks using the Apple File System (APFS).
+
+If you accidentally delete or change a file, you can use Time Machine to recover it.
+
+Even though Time Machine creates local snapshots on computers using APFS, it’s recommended that you back up your files to a location other than your internal disk, such as an external hard disk, a disk on your network, or a Time Capsule. That way, if anything ever happens to your internal disk or to your Mac, you can restore your entire system to another Mac.
+
+Connect an external hard disk to your Mac and turn the disk on.
+
+Important: If you create a backup on a Mac running macOS 12 or later, the files can only be restored to a Mac running macOS 11 or later.
+
+Do one of the following:
+
+Set up a disk from the “Time Machine can back up your Mac” dialog: If you don’t currently have a Time Machine backup disk set up, you’re asked if you want to use the disk to back up your Mac. Hold your pointer over the dialog that appears, click Options, then choose Set Up to use this disk as a backup disk with Time Machine. (If you choose Close, Time Machine closes, and the disk connects as a regular disk.)
+
+Set up a disk in Time Machine Settings: Click in the menu bar, then choose Open Time Machine Settings.
+
+If the Time Machine icon isn’t in the menu bar, choose Apple menu  > System Settings. Click Control Center in the sidebar, scroll down to Time Machine , then select “Show in Menu Bar” from the pop-up menu.
+
+Click Add Backup Disk or click .
+
+The option you see depends on whether you have one or more backup disks already set up.
+
+Important: Time Machine doesn’t back up system files or apps installed during macOS installation.
+
+See also
+
+Types of disks you can use with Time Machine on Mac
+Start, pause, or resume a Time Machine backup on Mac
+Restore items backed up with Time Machine on Mac
+Back up to a shared folder with Time Machine on Mac
+Exclude files from a Time Machine backup on Mac
+Helpful?
+Yes
+No

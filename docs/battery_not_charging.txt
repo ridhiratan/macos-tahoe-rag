@@ -1,0 +1,39 @@
+# If your Mac battery status is “Not Charging” - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/if-your-battery-status-is-not-charging-mh20876/mac
+Scraped: 2026-02-02 00:22:57
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+If your Mac battery status is “Not Charging”
+
+The Battery Status menu on your Mac laptop might say “Not Charging,” even if it’s connected to power. This can happen for a few reasons:
+
+Your computer temporarily paused charging to extend the life of your battery. Your battery may drain to 93% or lower before it begins charging again. Depending on the model of your Mac, you may be able to turn off battery health features in Battery settings. See If your Mac battery won’t charge completely.
+
+Your computer is connected to a power source that gives it enough power to run, but not enough power to charge the battery. For example, your Mac might not charge when it’s connected to a low wattage adapter. You can still use your Mac without draining its battery, but the battery won’t charge, even if you turn off your Mac or put it to sleep.
+
+Your computer is running at a very high performance level that uses more power than the power source provides. For example, some apps—such as video editing software and video games—can require more power and drain the battery more quickly.
+
+If your Mac won’t charge at all, see If your Mac battery won’t charge.
+
+See also
+Check the condition of your Mac laptop’s battery
+If graphics tasks slow down your Mac
+Find out how to service or repair your Mac
+Helpful?
+Yes
+No

@@ -1,0 +1,57 @@
+# What’s new in macOS Tahoe - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/whats-new-in-macos-tahoe-apd07d671600/mac
+Scraped: 2026-02-02 00:22:20
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+Search this guide
+Table of Contents
+What’s new in macOS Tahoe
+Personalize your Mac in new ways
+
+The reimagined design of macOS features Liquid Glass, which brings focus to your content while keeping the familiar Mac feel. Customize app icons with a colorful tint or a clear look, and give folders a distinctive look with colors, symbols, and emoji.
+
+Customize the look of folders and files on Mac
+
+Make calls seamlessly across all your devices
+
+Use the Phone app on Mac to make and take calls with just a click. Access familiar features—like Recents, Contacts, and Voicemails—and use new ones like Call Screening and Hold Assist.
+
+Make or receive a call on your Mac
+
+Browse and take action in Spotlight
+
+Spotlight lets you browse your apps, files, and the contents of your Clipboard. You can also take hundreds of actions directly from results without lifting your hands off the keyboard—and use quick keys to perform actions even faster.
+
+Search for anything with Spotlight
+
+Navigate Mac with powerful accessibility tools
+
+Accessibility features ensure everyone can interact with Mac comfortably and efficiently. Magnifier uses a connected camera to zoom in on your surroundings, while Accessibility Reader makes text easier to read with customized fonts, colors, and more.
+
+Get started with accessibility features on Mac
+
+The image above shows a feature that uses Apple Intelligence.*
+Get live translations
+
+Apple Intelligence* helps you effortlessly communicate across languages. Automatically translate text in Messages, see live captions in FaceTime, and get spoken translations during calls in the Phone app.
+
+Translate messages and calls
+
+New apps, new possibilities
+
+Discover what else macOS Tahoe has for you. With Journal on Mac, writing your daily entries is easier than ever. The Games app lets you organize all your games in one place. And, there’s so much more.
+
+Learn more about Journal
+
+Get started with Games
+
+*Apple Intelligence is available in beta with support for the following languages: English, Danish, Dutch, French, German, Italian, Norwegian, Portuguese, Spanish, Swedish, Turkish, Chinese (Simplified), Chinese (Traditional), Japanese, Korean, and Vietnamese. Some features may not be available in all languages or regions. For more information on language and feature availability and system requirements, see the Apple Support article How to get Apple Intelligence.
+Helpful?
+Yes
+No

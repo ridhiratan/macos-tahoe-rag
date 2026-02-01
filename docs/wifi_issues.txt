@@ -1,0 +1,70 @@
+# Mac User Guide - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/if-your-mac-doesnt-connect-to-the-internet-mchlp1498/mac
+Scraped: 2026-02-02 00:23:20
+Type: Apple Support Article
+
+---
+
+Mac User Guide
+
+for macOS Tahoe
+
+Search this guide
+Table of Contents
+Get started with your Mac
+
+You can set up and start using your new Mac in no time. Choose a wallpaper for your desktop, change common settings, start using apps, and more.
+
+Learn how to make the most of your new Mac
+
+Switched from Windows to Mac?
+
+If you’re switching to Mac, start here to make it a smooth transition. Learn how to find your way around the Mac, how to transfer your files from your PC, and more.
+
+Learn how to transition to your new Mac
+
+Use your Mac with other Apple devices
+
+Your Mac works seamlessly with all your other Apple devices. View and control your iPhone right from your Mac desktop, copy and paste between devices, and more.
+
+Learn how your Mac works with other devices
+
+What’s new in macOS Tahoe
+
+macOS Tahoe has a fresh new design, and helps you work and communicate more seamlessly. Make phone calls from your Mac, use Spotlight to search and take action without opening apps, get automatic translations in calls and messages, and more.
+
+Learn about new features in macOS Tahoe
+
+Control your privacy and security
+
+Your privacy and security come first. Your Mac includes built-in tools to protect your important information—from password management to private browsing and beyond.
+
+Learn how to keep your Mac private and secure
+
+Deleted a password?
+
+Learn how to recover a deleted password or passkey.
+
+Recover a recently deleted password
+
+Get to know your Mac
+
+Got a new Mac? Learn the essentials for your model.
+
+Find the Getting Started guide for your Mac
+
+Apple Intelligence
+
+Personal, private—and integrated into macOS.
+
+Learn more about Apple Intelligence
+
+To explore the Mac User Guide, click Table of Contents at the top of the page, or enter a word or phrase in the search field.
+
+If you need more help, visit the macOS Support website.
+
+Not all features and content are available in all countries or regions. Apple Intelligence is available in beta with support for the following languages: English, Danish, Dutch, French, German, Italian, Norwegian, Portuguese, Spanish, Swedish, Turkish, Chinese (Simplified), Chinese (Traditional), Japanese, Korean, and Vietnamese. Some features may not be available in all languages or regions. For more information on language and feature availability and system requirements, see the Apple Support article How to get Apple Intelligence.
+Helpful?
+Yes
+No

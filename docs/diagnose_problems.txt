@@ -1,0 +1,39 @@
+# Diagnose problems on Mac - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/diagnose-problems-mh35727/mac
+Scraped: 2026-02-02 00:22:31
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Diagnose problems on Mac
+
+Apple Diagnostics is a tool you can use to diagnose problems with your computer’s internal hardware, such as the logic board, memory, and wireless components. You may be able to start your Mac with Apple Diagnostics, even if it doesn’t start using macOS.
+
+To use Apple Diagnostics, follow the instructions in the Apple Support article Use Apple Diagnostics to test your Mac.
+
+You may want to print the instructions before you begin. Choose File > Print, then click Print.
+
+If Apple Diagnostics reports that your Wi-Fi card is not working properly, contact Apple or an Apple Authorized Service Provider for service. Repairs performed by untrained individuals or using non-genuine Apple parts may affect the safety and functionality of the device.
+
+Apple Diagnostics doesn’t check external hardware components, such as a USB device, or non-Apple devices, such as PCI cards from other vendors. It doesn’t check for macOS or software-related problems such as app or extension conflicts.
+
+If Apple Diagnostics doesn’t report a hardware problem with your Mac, there may be a problem with the macOS version you’re using and you may need to reinstall it. See Reinstall macOS.
+
+See also
+Find out how to service or repair your Mac
+Helpful?
+Yes
+No

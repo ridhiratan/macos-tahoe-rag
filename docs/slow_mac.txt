@@ -1,0 +1,41 @@
+# Resolve IP address conflicts on Mac - Apple Support
+
+Source: https://support.apple.com/guide/mac-help/if-your-mac-runs-slowly-mh27606/mac
+Scraped: 2026-02-02 00:23:15
+Type: Apple Support Article
+
+---
+
+Select version:
+macOS Tahoe 26
+macOS Sequoia 15
+macOS Sonoma 14
+macOS Ventura 13
+macOS Monterey 12
+macOS Big Sur 11.0
+macOS Catalina 10.15
+macOS Mojave 10.14
+macOS High Sierra
+Search this guide
+Table of Contents
+Resolve IP address conflicts on Mac
+
+If you’re connected to a network using TCP/IP, and you are having problems connecting your Mac to other computers or services, there may be a conflict with your computer’s IP address and the IP address of another device on the network.
+
+Depending on the way your IP address is provided, there are several things you can try to resolve the conflict.
+
+If you receive an IP address automatically using DHCP, there could be another device on the network that is already using that IP address. In most cases, the DHCP server will provide your Mac with another IP address in a few minutes. Try connecting again.
+
+Close the app that is using the connection (such as Safari or Messages), then open the app again.
+
+Put your computer to sleep, wait a few minutes, then wake it from sleep. Try connecting again.
+
+Close all open apps and restart your computer.
+
+If you entered your IP address manually, make sure you entered the correct address. If you’re connecting to a network that’s managed by an administrator, check with the administrator. See Enter TCP/IP settings.
+
+If you’re on a home network, and none of these suggestions fix the problem, try disconnecting from the network and turning off all the devices that are connected to it (for example, your router and modem). Wait a few minutes, then turn the devices back on. See Restart an external device.
+
+Helpful?
+Yes
+No

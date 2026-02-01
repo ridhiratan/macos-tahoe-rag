@@ -1,9 +1,0 @@
-# macOS Tahoe 26 Release Notes | Apple Developer Documentation
-
-Source: https://developer.apple.com/documentation/macos-release-notes/macos-26-release-notes
-Scraped: 2026-02-01 02:17:05
-
----
-
-This page requires JavaScript.
-Please turn on JavaScript in your browser and refresh the page to view its content.
