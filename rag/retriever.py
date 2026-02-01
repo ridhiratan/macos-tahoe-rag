@@ -2,8 +2,10 @@
 """
 Retriever for macOS Tahoe RAG chatbot.
 Searches ChromaDB for relevant document chunks.
+Uses hybrid search: semantic similarity + keyword boosting.
 """
 
+import re
 from pathlib import Path
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
@@ -17,6 +19,14 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # Retrieval parameters
 TOP_K = 5  # Number of chunks to retrieve
+INITIAL_K = 15  # Retrieve more initially for reranking
+
+# Important terms for keyword boosting
+KEY_TERMS = {
+    "liquid glass", "tahoe", "macos 26", "wwdc", "apple intelligence",
+    "siri", "safari", "finder", "system settings", "battery", "wifi",
+    "compatible", "upgrade", "features", "new", "release"
+}
 
 
 class MacOSTahoeRetriever:
@@ -53,9 +63,29 @@ class MacOSTahoeRetriever:
         self._initialized = True
         print(f"Retriever initialized with {self.vectorstore._collection.count()} vectors")
 
+    def _keyword_boost(self, query: str, content: str) -> float:
+        """Calculate keyword match boost score."""
+        query_lower = query.lower()
+        content_lower = content.lower()
+
+        boost = 0.0
+        # Check for key terms from query in content
+        query_words = set(re.findall(r'\b\w+\b', query_lower))
+        for word in query_words:
+            if len(word) > 3 and word in content_lower:
+                boost += 0.05
+
+        # Extra boost for important macOS terms
+        for term in KEY_TERMS:
+            if term in query_lower and term in content_lower:
+                boost += 0.1
+
+        return min(boost, 0.3)  # Cap boost at 0.3
+
     def retrieve(self, query: str, k: int = TOP_K) -> list[dict]:
         """
-        Retrieve relevant document chunks for a query.
+        Retrieve relevant document chunks using hybrid search.
+        Combines semantic similarity with keyword boosting.
 
         Args:
             query: The user's question
@@ -67,19 +97,30 @@ class MacOSTahoeRetriever:
         if not self._initialized:
             self.initialize()
 
-        # Search for similar documents
-        results = self.vectorstore.similarity_search_with_score(query, k=k)
+        # Retrieve more candidates initially
+        results = self.vectorstore.similarity_search_with_score(query, k=INITIAL_K)
 
-        # Format results
+        # Score and rerank with keyword boosting
         chunks = []
-        for doc, score in results:
+        for doc, semantic_score in results:
+            content = doc.page_content
+            keyword_boost = self._keyword_boost(query, content)
+
+            # Lower score = better in ChromaDB (distance metric)
+            # Subtract boost to improve ranking
+            final_score = semantic_score - keyword_boost
+
             chunks.append({
-                "content": doc.page_content,
+                "content": content,
                 "source": doc.metadata.get("source", "unknown"),
-                "score": score
+                "score": final_score,
+                "semantic_score": semantic_score,
+                "keyword_boost": keyword_boost
             })
 
-        return chunks
+        # Sort by final score (lower is better) and return top k
+        chunks.sort(key=lambda x: x["score"])
+        return chunks[:k]
 
     def format_context(self, chunks: list[dict]) -> str:
         """Format retrieved chunks as context for the LLM."""

@@ -5,10 +5,58 @@ const sendBtn = document.getElementById('sendBtn');
 
 let conversationHistory = [];
 
-function addMessage(content, role) {
+// Map filenames to readable titles
+const sourceNames = {
+    'announcement.txt': 'WWDC 2025 Announcement',
+    'release_announcement.txt': 'Release Announcement',
+    'release_notes_26.txt': 'Developer Release Notes',
+    'release_notes_26_1.txt': 'Release Notes 26.1',
+    'release_notes_26_2.txt': 'Release Notes 26.2',
+    'whats_new_updates.txt': 'What\'s New in Updates',
+    'whats_new_tahoe_guide.txt': 'macOS Tahoe Guide',
+    'whats_new_macos26.txt': 'What\'s New in macOS 26',
+    'compatible_computers.txt': 'Compatible Computers',
+    'enterprise_features.txt': 'Enterprise Features',
+    'how_to_upgrade.txt': 'How to Upgrade',
+    'macos_main.txt': 'macOS Tahoe Overview',
+    'battery_drain_fix.txt': 'Battery Troubleshooting',
+    'battery_settings.txt': 'Battery Settings',
+    'battery_condition.txt': 'Battery Condition',
+    'battery_not_charging.txt': 'Battery Not Charging',
+    'startup_issues.txt': 'Startup Issues',
+    'diagnose_problems.txt': 'Diagnose Problems',
+    'system_settings.txt': 'System Settings',
+    'security_content.txt': 'Security Content',
+    'storage_mac.txt': 'Storage Management',
+    'slow_mac.txt': 'Slow Mac Fixes',
+    'wifi_issues.txt': 'Wi-Fi Issues',
+    'software_update.txt': 'Software Updates',
+    'time_machine.txt': 'Time Machine Backup'
+};
+
+function getSourceTitle(filename) {
+    return sourceNames[filename] || filename.replace('.txt', '').replace(/_/g, ' ');
+}
+
+function addMessage(content, role, sources = []) {
     const messageDiv = document.createElement('div');
     messageDiv.className = `message ${role}`;
-    messageDiv.innerHTML = `<div class="message-content">${escapeHtml(content)}</div>`;
+
+    const formattedContent = role === 'assistant' ? formatResponse(content) : escapeHtml(content);
+    let html = `<div class="message-content">${formattedContent}</div>`;
+
+    // Add collapsible sources for assistant messages
+    if (role === 'assistant' && sources && sources.length > 0) {
+        const sourceItems = sources.map(s => `<div class="source-item">▸ ${getSourceTitle(s)}</div>`).join('');
+        html += `
+            <details class="sources-dropdown">
+                <summary>Sources (${sources.length})</summary>
+                <div class="sources-list">${sourceItems}</div>
+            </details>
+        `;
+    }
+
+    messageDiv.innerHTML = html;
     chatContainer.appendChild(messageDiv);
     chatContainer.scrollTop = chatContainer.scrollHeight;
 }
@@ -39,6 +87,17 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+function formatResponse(text) {
+    // Escape HTML first
+    let formatted = escapeHtml(text);
+    // Convert line breaks to <br>
+    formatted = formatted.replace(/\n\n/g, '</p><p>');
+    formatted = formatted.replace(/\n/g, '<br>');
+    // Wrap in paragraph
+    formatted = '<p>' + formatted + '</p>';
+    return formatted;
+}
+
 async function sendMessage(message) {
     sendBtn.disabled = true;
     addMessage(message, 'user');
@@ -61,7 +120,7 @@ async function sendMessage(message) {
         }
 
         const data = await response.json();
-        addMessage(data.response, 'assistant');
+        addMessage(data.response, 'assistant', data.sources || []);
 
         // Update history
         conversationHistory.push({ role: 'user', content: message });

@@ -49,13 +49,13 @@ header p {
 
 .message {
     display: flex;
-    gap: 12px;
+    flex-direction: column;
+    gap: 8px;
     max-width: 85%;
 }
 
 .message.user {
     align-self: flex-end;
-    flex-direction: row-reverse;
 }
 
 .message.assistant {
@@ -78,14 +78,57 @@ header p {
     border-bottom-left-radius: 4px;
 }
 
-.sources {
+.message-content p {
+    margin: 0 0 12px 0;
+}
+
+.message-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Sources Dropdown */
+.sources-dropdown {
+    margin-top: 10px;
+    font-size: 0.8rem;
+}
+
+.sources-dropdown summary {
+    cursor: pointer;
+    color: #667eea;
+    font-weight: 500;
+    padding: 6px 0;
+    outline: none;
+    list-style: none;
+}
+
+.sources-dropdown summary::-webkit-details-marker {
+    display: none;
+}
+
+.sources-dropdown summary::before {
+    content: "▸ ";
+    display: inline;
+}
+
+.sources-dropdown[open] summary::before {
+    content: "▾ ";
+}
+
+.sources-dropdown summary:hover {
+    color: #8a9ff5;
+}
+
+.sources-list {
+    padding: 8px 0 4px 12px;
+    border-left: 2px solid rgba(102, 126, 234, 0.3);
+    margin-left: 4px;
+    margin-top: 4px;
+}
+
+.source-item {
+    color: #999;
+    padding: 3px 0;
     font-size: 0.75rem;
-    color: #888;
-    margin-top: 6px;
-    padding: 4px 8px;
-    background: rgba(102, 126, 234, 0.1);
-    border-radius: 8px;
-    border-left: 2px solid #667eea;
 }
 
 .input-container {
