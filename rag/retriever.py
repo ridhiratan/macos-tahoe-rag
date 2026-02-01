@@ -7,7 +7,7 @@ Uses hybrid search: semantic similarity + keyword boosting.
 
 import re
 from pathlib import Path
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import FastEmbedEmbeddings
 from langchain_chroma import Chroma
 
 # Paths
@@ -15,7 +15,7 @@ BASE_DIR = Path(__file__).parent.parent
 CHROMA_DIR = BASE_DIR / "rag" / "chroma_db"
 
 # Embedding model (must match indexer)
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
 # Retrieval parameters
 TOP_K = 5  # Number of chunks to retrieve
@@ -48,11 +48,7 @@ class MacOSTahoeRetriever:
             )
 
         print("Loading embedding model...")
-        self.embeddings = HuggingFaceEmbeddings(
-            model_name=EMBEDDING_MODEL,
-            model_kwargs={"device": "cpu"},
-            encode_kwargs={"normalize_embeddings": True}
-        )
+        self.embeddings = FastEmbedEmbeddings(model_name=EMBEDDING_MODEL)
 
         print("Loading vector store...")
         self.vectorstore = Chroma(

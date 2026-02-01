@@ -7,7 +7,7 @@ Loads documents, chunks them, creates embeddings, and stores in ChromaDB.
 from pathlib import Path
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import FastEmbedEmbeddings
 from langchain_chroma import Chroma
 
 # Paths
@@ -15,8 +15,8 @@ BASE_DIR = Path(__file__).parent.parent
 DOCS_DIR = BASE_DIR / "docs"
 CHROMA_DIR = BASE_DIR / "rag" / "chroma_db"
 
-# Embedding model (free, runs locally)
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+# Embedding model (fastembed - lightweight, no PyTorch)
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
 # Chunking parameters
 CHUNK_SIZE = 1000
@@ -63,13 +63,8 @@ def chunk_documents(docs):
 def create_vectorstore(chunks):
     """Create ChromaDB vectorstore with embeddings."""
     print(f"Creating embeddings with {EMBEDDING_MODEL}...")
-    print("(This may take a moment on first run as the model downloads)")
 
-    embeddings = HuggingFaceEmbeddings(
-        model_name=EMBEDDING_MODEL,
-        model_kwargs={"device": "cpu"},
-        encode_kwargs={"normalize_embeddings": True}
-    )
+    embeddings = FastEmbedEmbeddings(model_name=EMBEDDING_MODEL)
 
     # Remove old database if exists
     if CHROMA_DIR.exists():
