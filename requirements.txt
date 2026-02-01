@@ -8,5 +8,3 @@ langchain-chroma
 langchain-text-splitters
 chromadb
 sentence-transformers
-beautifulsoup4
-requests
