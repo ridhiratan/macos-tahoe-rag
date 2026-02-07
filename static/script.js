@@ -81,8 +81,8 @@ function addMessage(content, role, sources = [], webSources = [], sourceType = '
     let html = `<div class="message-content">${formattedContent}</div>`;
 
     if (role === 'assistant') {
-        // RAG sources
-        if (sourceType === 'rag' && sources && sources.length > 0) {
+        // RAG sources (show for "rag" or "both")
+        if ((sourceType === 'rag' || sourceType === 'both') && sources && sources.length > 0) {
             const sourceItems = sources.map(s => {
                 const title = getSourceTitle(s);
                 const url = getSourceUrl(s);
@@ -93,14 +93,14 @@ function addMessage(content, role, sources = [], webSources = [], sourceType = '
             }).join('');
             html += `
                 <details class="sources-dropdown">
-                    <summary>Sources (${sources.length})</summary>
+                    <summary>Doc Sources (${sources.length})</summary>
                     <div class="sources-list">${sourceItems}</div>
                 </details>
             `;
         }
 
-        // Web sources
-        if (sourceType === 'web' && webSources && webSources.length > 0) {
+        // Web sources (show for "web" or "both")
+        if ((sourceType === 'web' || sourceType === 'both') && webSources && webSources.length > 0) {
             const webItems = webSources.map(s =>
                 `<div class="source-item"><a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">▸ ${escapeHtml(s.title)}</a></div>`
             ).join('');
