@@ -1,7 +1,7 @@
 # OS - macOS Tahoe - Apple
 
 Source: https://www.apple.com/macos/
-Scraped: 2026-02-01 02:16:51
+Scraped: 2026-02-07 16:11:54
 
 ---
 

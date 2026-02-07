@@ -4,6 +4,7 @@ A Retrieval-Augmented Generation (RAG) chatbot for answering questions about mac
 
 ## Features
 
+
 - **Hybrid Search**: Combines semantic vector search with keyword boosting for accurate retrieval
 - **Source Attribution**: Every response includes references to the source documentation
 - **25+ Documentation Sources**: Scraped from Apple Support, Newsroom, and Developer docs

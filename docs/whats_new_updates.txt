@@ -1,7 +1,7 @@
 # What's new in the updates for macOS Tahoe - Apple Support
 
 Source: https://support.apple.com/en-us/122868
-Scraped: 2026-02-01 02:16:53
+Scraped: 2026-02-07 16:11:56
 
 ---
 

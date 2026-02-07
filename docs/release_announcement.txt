@@ -1,7 +1,7 @@
 # New versions of Apple’s software platforms are available today - Apple
 
 Source: https://www.apple.com/newsroom/2025/09/new-versions-of-apples-software-platforms-are-available-today/
-Scraped: 2026-02-01 02:17:03
+Scraped: 2026-02-07 16:12:06
 
 ---
 

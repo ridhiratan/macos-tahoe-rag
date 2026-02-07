@@ -1,7 +1,7 @@
 # How to upgrade to macOS Tahoe 26 - Apple Support
 
 Source: https://support.apple.com/en-us/122727
-Scraped: 2026-02-01 02:16:55
+Scraped: 2026-02-07 16:11:57
 
 ---
 

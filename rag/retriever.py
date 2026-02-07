@@ -20,6 +20,7 @@ EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 # Retrieval parameters
 TOP_K = 5  # Number of chunks to retrieve
 INITIAL_K = 15  # Retrieve more initially for reranking
+RELEVANCE_THRESHOLD = 0.35  # Chunks with score above this are considered irrelevant
 
 # Important terms for keyword boosting
 KEY_TERMS = {
@@ -78,7 +79,7 @@ class MacOSTahoeRetriever:
 
         return min(boost, 0.3)  # Cap boost at 0.3
 
-    def retrieve(self, query: str, k: int = TOP_K) -> list[dict]:
+    def retrieve(self, query: str, k: int = TOP_K) -> tuple[list[dict], bool]:
         """
         Retrieve relevant document chunks using hybrid search.
         Combines semantic similarity with keyword boosting.
@@ -88,7 +89,8 @@ class MacOSTahoeRetriever:
             k: Number of chunks to retrieve
 
         Returns:
-            List of dicts with 'content' and 'source' keys
+            Tuple of (list of chunk dicts, is_relevant bool).
+            is_relevant is False when the best chunk score exceeds RELEVANCE_THRESHOLD.
         """
         if not self._initialized:
             self.initialize()
@@ -116,7 +118,12 @@ class MacOSTahoeRetriever:
 
         # Sort by final score (lower is better) and return top k
         chunks.sort(key=lambda x: x["score"])
-        return chunks[:k]
+        top_chunks = chunks[:k]
+
+        # Check if best result is relevant enough
+        is_relevant = bool(top_chunks and top_chunks[0]["score"] < RELEVANCE_THRESHOLD)
+
+        return top_chunks, is_relevant
 
     def format_context(self, chunks: list[dict]) -> str:
         """Format retrieved chunks as context for the LLM."""
@@ -160,7 +167,8 @@ if __name__ == "__main__":
         print(f"Query: {query}")
         print("=" * 50)
 
-        chunks = retriever.retrieve(query, k=3)
+        chunks, is_relevant = retriever.retrieve(query, k=3)
+        print(f"Relevant: {is_relevant}")
         for i, chunk in enumerate(chunks, 1):
             print(f"\n[{i}] Source: {chunk['source']} (score: {chunk['score']:.4f})")
             print(f"Content: {chunk['content'][:200]}...")

@@ -131,6 +131,38 @@ header p {
     font-size: 0.75rem;
 }
 
+.source-item a {
+    color: #8a9ff5;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.source-item a:hover {
+    color: #b8c6ff;
+    text-decoration: underline;
+}
+
+/* Web Sources */
+.web-sources summary {
+    color: #e89b3e;
+}
+
+.web-sources summary:hover {
+    color: #f0b565;
+}
+
+.web-sources .sources-list {
+    border-left-color: rgba(232, 155, 62, 0.3);
+}
+
+.web-sources .source-item a {
+    color: #e89b3e;
+}
+
+.web-sources .source-item a:hover {
+    color: #f0b565;
+}
+
 .input-container {
     display: flex;
     gap: 12px;
@@ -177,6 +209,24 @@ header p {
     opacity: 0.6;
     cursor: not-allowed;
     transform: none;
+}
+
+#clearBtn {
+    padding: 14px 20px;
+    border: none;
+    border-radius: 25px;
+    background: #2a2a4a;
+    color: #999;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s, background 0.2s, color 0.2s;
+}
+
+#clearBtn:hover {
+    background: #3a3a5a;
+    color: #fff;
+    transform: scale(1.05);
 }
 
 .typing {

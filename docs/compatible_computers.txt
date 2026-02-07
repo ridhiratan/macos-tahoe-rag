@@ -1,7 +1,7 @@
 # macOS Tahoe is compatible with these computers - Apple Support
 
 Source: https://support.apple.com/en-us/122867
-Scraped: 2026-02-01 02:16:56
+Scraped: 2026-02-07 16:11:58
 
 ---
 
